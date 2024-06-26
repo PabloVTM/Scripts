@@ -1,4 +1,5 @@
 #!/bin/bash
+apt-get install fail2ban make gcc -y
 cd /opt/
 git clone https://github.com/skeeto/endlessh.git
 cd endlessh/
